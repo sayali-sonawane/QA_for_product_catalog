@@ -1,0 +1,416 @@
+[{
+    "question": "What is the product id for Men's Jeans?",
+    "answers": [
+        "5010101"
+    ]
+},
+{
+    "question": "What is the Men's Jeans name?",
+    "answers": [
+        "501\u00ae Original Fit Men's Jeans"
+    ]
+},
+{
+    "question": "What is the category of jeans?",
+    "answers": [
+        "Bottoms"
+    ]
+},
+{
+    "question": "What is the price of the Men's Jeans?",
+    "answers": [
+        "89.5"
+    ]
+},
+{
+    "question": "What is the Men's Jeans rating?",
+    "answers": [
+        "4.3863"
+    ]
+},
+{
+    "question": "What are the measurements for men's jeans?",
+    "answers": [
+        "Measurements are taken from a size 33 waist, Regular fit through the thigh, Sits at your waist; Front rise: 11.25\", Straight leg opening: 16\""
+    ]
+},
+{
+    "question": "What is the color of the Men's Jeans?",
+    "answers": [
+        "Onewash"
+    ]
+},
+{
+    "question": "What is the men's color group?",
+    "answers": [
+        "Dark Wash"
+    ]
+},
+{
+    "question": "What is the size of the Men's Jeans?",
+    "answers": [
+        "34x33",
+        "35x36",
+        "36x32",
+        "36x38",
+        "34x29",
+        "35x32",
+        "32x34",
+        "35x38",
+        "33x30",
+        "34x31",
+        "36x40",
+        "34x36",
+        "34x38",
+        "32x30",
+        "32x38",
+        "33x31",
+        "36x29",
+        "33x35",
+        "35x31",
+        "35x34",
+        "36x34",
+        "36x31",
+        "34x35",
+        "33x36",
+        "36x33",
+        "36x35",
+        "33x32",
+        "32x36",
+        "33x29",
+        "33x33",
+        "34x34",
+        "33x38",
+        "32x28",
+        "36x36",
+        "32x32",
+        "33x34",
+        "34x28",
+        "34x30",
+        "34x32",
+        "35x30",
+        "36x28",
+        "32x31",
+        "32x35",
+        "36x30",
+        "32x29",
+        "32x33"
+    ]
+},
+{
+    "question": "What gender are jeans?",
+    "answers": [
+        "Men",
+        "Women"
+    ]
+},
+{
+    "question": "What is the men's jeans style?",
+    "answers": [
+        "nan"
+    ]
+},
+{
+    "question": "What type of clothing does a man wear?",
+    "answers": [
+        "Jeans"
+    ]
+},
+{
+    "question": "What is the material of Men's jeans?",
+    "answers": [
+        "100% Cotton, 5-pocket styling, Button Fly, Imported, Read our definitive guide to making jeans last longer <strong><a href=\"https://www.levi.com/US/en_US/blog/article/the-definitive-guide-to-denim/\" target=\"_blank\">here</a></strong>, Wash your jeans once every 10 wears at most; this increases their lifespan and saves natural resources, When you eventually launder your jeans, wash and dry them inside out with like colors; liquid detergent is recommended"
+    ]
+},
+{
+    "question": "What is the name of the Men Jeans google product category?",
+    "answers": [
+        "nan"
+    ]
+},
+{
+    "question": "What is the condition of the men's jeans?",
+    "answers": [
+        "NEW"
+    ]
+},
+{
+    "question": "What is the name of the Men Jeans shop?",
+    "answers": [
+        "nan"
+    ]
+},
+{
+    "question": "What is the age group of Men Jeans?",
+    "answers": [
+        "nan"
+    ]
+},
+{
+    "question": "What is the code for the Men's Jeans?",
+    "answers": [
+        "501010000000.0"
+    ]
+},
+{
+    "question": "What is the name of the Men's Jeans department?",
+    "answers": [
+        "nan"
+    ]
+},
+{
+    "question": "What is the name of the men's jeans?",
+    "answers": [
+        "501\u00ae"
+    ]
+},
+{
+    "question": "What shape do men's jeans fit?",
+    "answers": [
+        "Straight"
+    ]
+},
+{
+    "question": "What is the name of the original blue jean?",
+    "answers": [
+        "<UL> <LI> The original blue jean since 1873 </LI><LI> The original straight fit jean </LI><LI> All-American style </LI><LI> A blank canvas for self-expression </LI><LI> Made with our sustainable <strong><a href=\"https://www.levi.com/US/en_US/blog/article/how-we-make-jeans-with-less-water/\" target=\"_blank\">Water&lt;Less\u2122 techniques</a></strong> </LI><LI> Also available in Men's Big & Tall sizes. Shop our <u><a href=\"https://www.levi.com/US/en_US/big-tall/jeans/c/levi_clothing_men_big_tall_jeans/facets/feature-fit_name/501%c2%ae\">501\u00ae Original Fit Jeans in Big & Tall</a></u> </LI><LI> <a href=\"https://www.levi.com/US/en_US/customize/levis-future-finish/c/levi_clothing_future_finish_customize_us/facets/feature-gender/men\"target=\"_blank\">Customize your 501\u00ae Original Fit Jeans <b>here</b></a> </LI> </UL>"
+    ]
+},
+{
+    "question": "What is the id of the Women Jeans product?",
+    "answers": [
+        "125010229"
+    ]
+},
+{
+    "question": "What is the Women's Jeans name?",
+    "answers": [
+        "501\u00ae Original Fit Women's Jeans"
+    ]
+},
+{
+    "question": "What is the category of women's jeans?",
+    "answers": [
+        "Bottoms"
+    ]
+},
+{
+    "question": "What is the price of Women's Jeans?",
+    "answers": [
+        "69.5",
+        "34.98"
+    ]
+},
+{
+    "question": "What is the Women Jeans rating?",
+    "answers": [
+        "4.1223",
+        "3.8636"
+    ]
+},
+{
+    "question": "What are the measurements of a Women Jeans?",
+    "answers": [
+        "Mid rise: Sits at waist, Relaxed through hip and thigh, Straight leg"
+    ]
+},
+{
+    "question": "What is the color of the Women's Jeans?",
+    "answers": [
+        "Medium Wash",
+        "Lonesome Road"
+    ]
+},
+{
+    "question": "What is the size of the Women's Jeans?",
+    "answers": [
+        "26x32",
+        "26x28",
+        "29x32",
+        "28x28",
+        "23x28",
+        "25x28",
+        "24x28",
+        "32x32",
+        "27x34",
+        "22x32",
+        "28x32",
+        "26x34",
+        "27x32",
+        "24x32",
+        "28x34",
+        "25x32",
+        "27x28",
+        "23x32"
+    ]
+},
+{
+    "question": "What is the style of Women Jeans?",
+    "answers": [
+        "nan"
+    ]
+},
+{
+    "question": "What type of clothing do women wear?",
+    "answers": [
+        "Jeans"
+    ]
+},
+{
+    "question": "What is the material of Women Jeans?",
+    "answers": [
+        "100% Cotton (Non-Stretch Denim), 5-pocket styling, Button fly, Imported"
+    ]
+},
+{
+    "question": "What is the name of the women's jeans category?",
+    "answers": [
+        "nan"
+    ]
+},
+{
+    "question": "What is the condition of women's jeans?",
+    "answers": [
+        "NEW"
+    ]
+},
+{
+    "question": "What is the name of the Women's Jeans shop?",
+    "answers": [
+        "nan"
+    ]
+},
+{
+    "question": "What is the gender of the women in jeans?",
+    "answers": [
+        "nan"
+    ]
+},
+{
+    "question": "What is the code for the Women's Jeans?",
+    "answers": [
+        "52797000000000.0",
+        "12501000000000.0"
+    ]
+},
+{
+    "question": "What is the department of Women Jeans called?",
+    "answers": [
+        "nan"
+    ]
+},
+{
+    "question": "What is the name of the company that makes the Women's Jeans?",
+    "answers": [
+        "501\u00ae"
+    ]
+},
+{
+    "question": "What is the gender of the person wearing the women's jeans?",
+    "answers": [
+        "Boyfriend, Straight"
+    ]
+},
+{
+    "question": "What is the 501 Jean?",
+    "answers": [
+        "A cultural icon. Always original. The 501\u00ae Jean is the first blue jean ever and has been a canvas for self-expression since Levi's\u00ae invented it in 1873. True to the original, this jean features the iconic straight fit and signature button fly and is made to last. Wear it relaxed and borrowed-from-the-boys or downsized and fitted, depending on your style."
+    ]
+},
+{
+    "question": "What is the size of Women's Jeans?",
+    "answers": [
+        "23x30",
+        "27x30",
+        "24x30",
+        "28x30",
+        "25x30",
+        "30x32",
+        "26x30",
+        "31x32"
+    ]
+},
+{
+    "question": "What is the id of the Women's Jeans product?",
+    "answers": [
+        "527970022"
+    ]
+},
+{
+    "question": "What is the women's jeans name?",
+    "answers": [
+        "720 High Rise Super Skinny Women's Jeans"
+    ]
+},
+{
+    "question": "What is the category of clothing for women?",
+    "answers": [
+        "Jeans"
+    ]
+},
+{
+    "question": "What are the measurements of the model?",
+    "answers": [
+        "Front rise is 10.25\", High rise, Leg opening is 9.25\", Measurements are taken from a size 27 waist, Model is 5'9.5\" and is wearing a size 27 waist, Slim through the hip and thigh, Super skinny leg"
+    ]
+},
+{
+    "question": "What is the color of Women's Jeans?",
+    "answers": [
+        "Black Squared"
+    ]
+},
+{
+    "question": "What color group does the Women's Jeans belong to?",
+    "answers": [
+        "Black"
+    ]
+},
+{
+    "question": "What is the Women Jeans material?",
+    "answers": [
+        "5-pocket styling, 65% Cotton, 33% Polyester, 2% Elastane, Extreme stretch Lightweight Denim, Imported, Zip fly"
+    ]
+},
+{
+    "question": "What is the Women Jeans google product category?",
+    "answers": [
+        "Apparel & Accessories > Clothing > Pants"
+    ]
+},
+{
+    "question": "What was the first time Levi's jeans were designed for women?",
+    "answers": [
+        "Levi's\u00ae first designed jeans for women in 1938, and they have been getting better ever since. Browse the complete collection of women's jeans at Levi's\u00ae."
+    ]
+},
+{
+    "question": "What age group does the Women Jeans belong to?",
+    "answers": [
+        "adult"
+    ]
+},
+{
+    "question": "What is the department for women called?",
+    "answers": [
+        "Jeans"
+    ]
+},
+{
+    "question": "What is the size of the Women Jeans?",
+    "answers": [
+        "720"
+    ]
+},
+{
+    "question": "What are the measurements of Women's Jeans?",
+    "answers": [
+        "Skinny, Super Skinny"
+    ]
+},
+{
+    "question": "What is the description of the Levi's Sculpt with Hyperstretch?",
+    "answers": [
+        "<UL> <LI> Designed to flatter, hold and lift </LI><LI> A high-rise jean that delivers chic style and all-day comfort </LI><LI> Levi's\u00ae Sculpt with Hyperstretch is an advanced blend of Lycra\u00ae and cotton fibers for extreme stretch </LI> </UL>"
+    ]
+}]

@@ -1,0 +1,706 @@
+[{
+    "answer": "5010101",
+    "questions": [
+        "What is the product id for Men's Jeans?"
+    ]
+},
+{
+    "answer": "501\u00ae Original Fit Men's Jeans",
+    "questions": [
+        "What is the Men's Jeans name?"
+    ]
+},
+{
+    "answer": "Bottoms",
+    "questions": [
+        "What is the category of women's jeans?",
+        "What is the category of jeans?"
+    ]
+},
+{
+    "answer": "89.5",
+    "questions": [
+        "What is the price of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "4.3863",
+    "questions": [
+        "What is the Men's Jeans rating?"
+    ]
+},
+{
+    "answer": "Measurements are taken from a size 33 waist, Regular fit through the thigh, Sits at your waist; Front rise: 11.25\", Straight leg opening: 16\"",
+    "questions": [
+        "What are the measurements for men's jeans?"
+    ]
+},
+{
+    "answer": "Onewash",
+    "questions": [
+        "What is the color of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "Dark Wash",
+    "questions": [
+        "What is the men's color group?"
+    ]
+},
+{
+    "answer": "32x28",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "Men",
+    "questions": [
+        "What gender are jeans?"
+    ]
+},
+{
+    "answer": "nan",
+    "questions": [
+        "What is the name of the women's jeans category?",
+        "What is the department of Women Jeans called?",
+        "What is the name of the Men's Jeans department?",
+        "What is the name of the Men Jeans shop?",
+        "What is the name of the Women's Jeans shop?",
+        "What is the name of the Men Jeans google product category?",
+        "What is the style of Women Jeans?",
+        "What is the men's jeans style?",
+        "What is the age group of Men Jeans?",
+        "What is the gender of the women in jeans?"
+    ]
+},
+{
+    "answer": "Jeans",
+    "questions": [
+        "What is the category of clothing for women?",
+        "What type of clothing does a man wear?",
+        "What type of clothing do women wear?",
+        "What is the department for women called?"
+    ]
+},
+{
+    "answer": "100% Cotton, 5-pocket styling, Button Fly, Imported, Read our definitive guide to making jeans last longer <strong><a href=\"https://www.levi.com/US/en_US/blog/article/the-definitive-guide-to-denim/\" target=\"_blank\">here</a></strong>, Wash your jeans once every 10 wears at most; this increases their lifespan and saves natural resources, When you eventually launder your jeans, wash and dry them inside out with like colors; liquid detergent is recommended",
+    "questions": [
+        "What is the material of Men's jeans?"
+    ]
+},
+{
+    "answer": "NEW",
+    "questions": [
+        "What is the condition of the men's jeans?",
+        "What is the condition of women's jeans?"
+    ]
+},
+{
+    "answer": "501010000000.0",
+    "questions": [
+        "What is the code for the Men's Jeans?"
+    ]
+},
+{
+    "answer": "501\u00ae",
+    "questions": [
+        "What is the name of the men's jeans?",
+        "What is the name of the company that makes the Women's Jeans?"
+    ]
+},
+{
+    "answer": "Straight",
+    "questions": [
+        "What shape do men's jeans fit?"
+    ]
+},
+{
+    "answer": "<UL> <LI> The original blue jean since 1873 </LI><LI> The original straight fit jean </LI><LI> All-American style </LI><LI> A blank canvas for self-expression </LI><LI> Made with our sustainable <strong><a href=\"https://www.levi.com/US/en_US/blog/article/how-we-make-jeans-with-less-water/\" target=\"_blank\">Water&lt;Less\u2122 techniques</a></strong> </LI><LI> Also available in Men's Big & Tall sizes. Shop our <u><a href=\"https://www.levi.com/US/en_US/big-tall/jeans/c/levi_clothing_men_big_tall_jeans/facets/feature-fit_name/501%c2%ae\">501\u00ae Original Fit Jeans in Big & Tall</a></u> </LI><LI> <a href=\"https://www.levi.com/US/en_US/customize/levis-future-finish/c/levi_clothing_future_finish_customize_us/facets/feature-gender/men\"target=\"_blank\">Customize your 501\u00ae Original Fit Jeans <b>here</b></a> </LI> </UL>",
+    "questions": [
+        "What is the name of the original blue jean?"
+    ]
+},
+{
+    "answer": "32x29",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "32x30",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "32x31",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "32x32",
+    "questions": [
+        "What is the size of the Women's Jeans?",
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "32x33",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "32x34",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "32x35",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "32x36",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "32x38",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "33x29",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "33x30",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "33x31",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "33x32",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "33x33",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "33x34",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "33x35",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "33x36",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "33x38",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "34x28",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "34x29",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "34x30",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "34x31",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "34x32",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "34x33",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "34x34",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "34x35",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "34x36",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "34x38",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "35x30",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "35x31",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "35x32",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "35x34",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "35x36",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "35x38",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "36x28",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "36x29",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "36x30",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "36x31",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "36x32",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "36x33",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "36x34",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "36x35",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "36x36",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "36x38",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "36x40",
+    "questions": [
+        "What is the size of the Men's Jeans?"
+    ]
+},
+{
+    "answer": "125010229",
+    "questions": [
+        "What is the id of the Women Jeans product?"
+    ]
+},
+{
+    "answer": "501\u00ae Original Fit Women's Jeans",
+    "questions": [
+        "What is the Women's Jeans name?"
+    ]
+},
+{
+    "answer": "34.98",
+    "questions": [
+        "What is the price of Women's Jeans?"
+    ]
+},
+{
+    "answer": "4.1223",
+    "questions": [
+        "What is the Women Jeans rating?"
+    ]
+},
+{
+    "answer": "Mid rise: Sits at waist, Relaxed through hip and thigh, Straight leg",
+    "questions": [
+        "What are the measurements of a Women Jeans?"
+    ]
+},
+{
+    "answer": "Lonesome Road",
+    "questions": [
+        "What is the color of the Women's Jeans?"
+    ]
+},
+{
+    "answer": "Medium Wash",
+    "questions": [
+        "What is the color of the Women's Jeans?"
+    ]
+},
+{
+    "answer": "22x32",
+    "questions": [
+        "What is the size of the Women's Jeans?"
+    ]
+},
+{
+    "answer": "Women",
+    "questions": [
+        "What gender are jeans?"
+    ]
+},
+{
+    "answer": "100% Cotton (Non-Stretch Denim), 5-pocket styling, Button fly, Imported",
+    "questions": [
+        "What is the material of Women Jeans?"
+    ]
+},
+{
+    "answer": "12501000000000.0",
+    "questions": [
+        "What is the code for the Women's Jeans?"
+    ]
+},
+{
+    "answer": "Boyfriend, Straight",
+    "questions": [
+        "What is the gender of the person wearing the women's jeans?"
+    ]
+},
+{
+    "answer": "A cultural icon. Always original. The 501\u00ae Jean is the first blue jean ever and has been a canvas for self-expression since Levi's\u00ae invented it in 1873. True to the original, this jean features the iconic straight fit and signature button fly and is made to last. Wear it relaxed and borrowed-from-the-boys or downsized and fitted, depending on your style.",
+    "questions": [
+        "What is the 501 Jean?"
+    ]
+},
+{
+    "answer": "23x32",
+    "questions": [
+        "What is the size of the Women's Jeans?"
+    ]
+},
+{
+    "answer": "24x32",
+    "questions": [
+        "What is the size of the Women's Jeans?"
+    ]
+},
+{
+    "answer": "25x32",
+    "questions": [
+        "What is the size of the Women's Jeans?"
+    ]
+},
+{
+    "answer": "26x32",
+    "questions": [
+        "What is the size of the Women's Jeans?"
+    ]
+},
+{
+    "answer": "27x32",
+    "questions": [
+        "What is the size of the Women's Jeans?"
+    ]
+},
+{
+    "answer": "28x32",
+    "questions": [
+        "What is the size of the Women's Jeans?"
+    ]
+},
+{
+    "answer": "29x32",
+    "questions": [
+        "What is the size of the Women's Jeans?"
+    ]
+},
+{
+    "answer": "30x32",
+    "questions": [
+        "What is the size of Women's Jeans?"
+    ]
+},
+{
+    "answer": "31x32",
+    "questions": [
+        "What is the size of Women's Jeans?"
+    ]
+},
+{
+    "answer": "527970022",
+    "questions": [
+        "What is the id of the Women's Jeans product?"
+    ]
+},
+{
+    "answer": "720 High Rise Super Skinny Women's Jeans",
+    "questions": [
+        "What is the women's jeans name?"
+    ]
+},
+{
+    "answer": "69.5",
+    "questions": [
+        "What is the price of Women's Jeans?"
+    ]
+},
+{
+    "answer": "3.8636",
+    "questions": [
+        "What is the Women Jeans rating?"
+    ]
+},
+{
+    "answer": "Front rise is 10.25\", High rise, Leg opening is 9.25\", Measurements are taken from a size 27 waist, Model is 5'9.5\" and is wearing a size 27 waist, Slim through the hip and thigh, Super skinny leg",
+    "questions": [
+        "What are the measurements of the model?"
+    ]
+},
+{
+    "answer": "Black Squared",
+    "questions": [
+        "What is the color of Women's Jeans?"
+    ]
+},
+{
+    "answer": "Black",
+    "questions": [
+        "What color group does the Women's Jeans belong to?"
+    ]
+},
+{
+    "answer": "23x28",
+    "questions": [
+        "What is the size of the Women's Jeans?"
+    ]
+},
+{
+    "answer": "5-pocket styling, 65% Cotton, 33% Polyester, 2% Elastane, Extreme stretch Lightweight Denim, Imported, Zip fly",
+    "questions": [
+        "What is the Women Jeans material?"
+    ]
+},
+{
+    "answer": "Apparel & Accessories > Clothing > Pants",
+    "questions": [
+        "What is the Women Jeans google product category?"
+    ]
+},
+{
+    "answer": "Levi's\u00ae first designed jeans for women in 1938, and they have been getting better ever since. Browse the complete collection of women's jeans at Levi's\u00ae.",
+    "questions": [
+        "What was the first time Levi's jeans were designed for women?"
+    ]
+},
+{
+    "answer": "adult",
+    "questions": [
+        "What age group does the Women Jeans belong to?"
+    ]
+},
+{
+    "answer": "52797000000000.0",
+    "questions": [
+        "What is the code for the Women's Jeans?"
+    ]
+},
+{
+    "answer": "720",
+    "questions": [
+        "What is the size of the Women Jeans?"
+    ]
+},
+{
+    "answer": "Skinny, Super Skinny",
+    "questions": [
+        "What are the measurements of Women's Jeans?"
+    ]
+},
+{
+    "answer": "<UL> <LI> Designed to flatter, hold and lift </LI><LI> A high-rise jean that delivers chic style and all-day comfort </LI><LI> Levi's\u00ae Sculpt with Hyperstretch is an advanced blend of Lycra\u00ae and cotton fibers for extreme stretch </LI> </UL>",
+    "questions": [
+        "What is the description of the Levi's Sculpt with Hyperstretch?"
+    ]
+},
+{
+    "answer": "23x30",
+    "questions": [
+        "What is the size of Women's Jeans?"
+    ]
+},
+{
+    "answer": "24x28",
+    "questions": [
+        "What is the size of the Women's Jeans?"
+    ]
+},
+{
+    "answer": "24x30",
+    "questions": [
+        "What is the size of Women's Jeans?"
+    ]
+},
+{
+    "answer": "25x28",
+    "questions": [
+        "What is the size of the Women's Jeans?"
+    ]
+},
+{
+    "answer": "25x30",
+    "questions": [
+        "What is the size of Women's Jeans?"
+    ]
+},
+{
+    "answer": "26x28",
+    "questions": [
+        "What is the size of the Women's Jeans?"
+    ]
+},
+{
+    "answer": "26x30",
+    "questions": [
+        "What is the size of Women's Jeans?"
+    ]
+},
+{
+    "answer": "26x34",
+    "questions": [
+        "What is the size of the Women's Jeans?"
+    ]
+},
+{
+    "answer": "27x28",
+    "questions": [
+        "What is the size of the Women's Jeans?"
+    ]
+},
+{
+    "answer": "27x30",
+    "questions": [
+        "What is the size of Women's Jeans?"
+    ]
+},
+{
+    "answer": "27x34",
+    "questions": [
+        "What is the size of the Women's Jeans?"
+    ]
+},
+{
+    "answer": "28x28",
+    "questions": [
+        "What is the size of the Women's Jeans?"
+    ]
+},
+{
+    "answer": "28x30",
+    "questions": [
+        "What is the size of Women's Jeans?"
+    ]
+},
+{
+    "answer": "28x34",
+    "questions": [
+        "What is the size of the Women's Jeans?"
+    ]
+}]
